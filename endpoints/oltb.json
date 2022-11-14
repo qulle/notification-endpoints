@@ -2,5 +2,7 @@
     "qulle": "Glad you are using my App, hope you find it useful!",
     "latest": "1.0.0-beta3",
     "released": "2022-10-19",
-    "features": []
+    "features": [
+        "Working on making the toolbar available via npm and cdn link"
+    ]
 }
